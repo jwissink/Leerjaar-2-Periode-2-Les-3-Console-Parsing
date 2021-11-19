@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.1.31903.286
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Leerjaar 2 Periode 2 Les 3 Console Parsing", "Leerjaar 2 Periode 2 Les 3 Console Parsing\Leerjaar 2 Periode 2 Les 3 Console Parsing.csproj", "{57849EE1-BF54-4FEB-B6DF-A1ABBB2E66FE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{57849EE1-BF54-4FEB-B6DF-A1ABBB2E66FE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{57849EE1-BF54-4FEB-B6DF-A1ABBB2E66FE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{57849EE1-BF54-4FEB-B6DF-A1ABBB2E66FE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{57849EE1-BF54-4FEB-B6DF-A1ABBB2E66FE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0D8C0301-DE13-47C1-8FEE-E511A2AF61F1}
+	EndGlobalSection
+EndGlobal
